@@ -1,1 +1,1 @@
-# Modflow6_exercises
+Trying and testing out MODFLOW 6 test cases using flopy
